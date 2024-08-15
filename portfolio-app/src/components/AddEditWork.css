@@ -1,0 +1,33 @@
+.Add-the-work-form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+  
+.form-group {
+    margin-bottom: 1rem;
+}
+  
+.form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    text-align: left; 
+}
+  
+.form-group input,
+.form-group textarea,
+.form-group select {
+    width: 100%; 
+}
+
+.container-custom {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+}
+  
+.img-preview {
+    max-width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+    margin-top: 10px;
+}
